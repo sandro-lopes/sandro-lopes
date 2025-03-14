@@ -1,5 +1,7 @@
 Hello, welcome to my GitHub! 👋
+
 About me
+
 I'm a technology professional with a degree in Information Systems and currently pursuing an MBA in Solutions Architecture. I have experience in technical leadership and software architecture roles in corporate environments.
 Professional Experience
 
